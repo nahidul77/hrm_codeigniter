@@ -1,0 +1,4 @@
+[11-Apr-2018 19:40:53 Asia/Kolkata] PHP Fatal error:  Call to a member function set_mailtype() on null in /home/tameasy/public_html/hrmsoftware/application/controllers/Payroll.php on line 2078
+[07-May-2018 22:41:26 Asia/Kolkata] PHP Fatal error:  Call to a member function set_mailtype() on null in /home/tameasy/public_html/hrmsoftware/application/controllers/Payroll.php on line 2078
+[17-Jun-2018 01:14:00 Asia/Kolkata] PHP Fatal error:  Call to a member function set_mailtype() on null in /home/tameasy/public_html/hrmsoftware/application/controllers/Payroll.php on line 2078
+[23-Jul-2018 12:31:09 Asia/Kolkata] PHP Fatal error:  Call to a member function set_mailtype() on null in /home/tameasy/public_html/hrmsoftware31548/application/controllers/Payroll.php on line 2078
